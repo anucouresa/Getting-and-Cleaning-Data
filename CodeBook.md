@@ -1,25 +1,3 @@
- Skip to content
-This repository
-
-    Explore
-    Gist
-    Blog
-    Help
-
-    anucouresa anucouresa
-
-You don't have any verified emails. We recommend verifying at least one email.
-
-Email verification helps our support team verify ownership if you lose account access and allows you to receive all the notifications you ask for.
-
-    1
-    0
-    0
-
-karthiga2112/Getting-CleaningDataCourseProject-
-
-Browse code
-
 Create CodeBook.md
 
     master
